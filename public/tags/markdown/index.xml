@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on 锦年安好</title>
+    <link>https://www.silkage.net/tags/markdown/</link>
+    <description>Recent content in markdown on 锦年安好</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Oct 2019 12:10:51 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.silkage.net/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://www.silkage.net/2019/10/11/markdown-cheat-sheet/</link>
+      <pubDate>Fri, 11 Oct 2019 12:10:51 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/2019/10/11/markdown-cheat-sheet/</guid>
+      <description>&lt;p&gt;This note demonstrates some of what &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; is capable of doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Feel free to play with this page. Unlike regular notes, this doesn&amp;rsquo;t automatically save itself.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.silkage.net/2019/10/10/hello-world/</link>
+      <pubDate>Thu, 10 Oct 2019 16:00:00 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/2019/10/10/hello-world/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

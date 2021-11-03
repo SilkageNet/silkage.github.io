@@ -1,0 +1,21 @@
+{{ define "main" }}
+    {{ $context := . }}
+    
+    {{ with .Content }}
+        {{ partial "single_article.html" $context }}
+    {{ else }}
+    <section class="archives-wrap">
+        <div class="archive-category-wrap">
+            <span class="archive-category">{{ .Title }} / 共{{ (len .Data.Pages) }}篇</span>
+        </div>
+        <div class="archives">
+            {{ $paginator := .Paginate .Data.Pages }}
+            {{ range $paginator.Pages }}
+                <!-- {{ .Render "summary" }}  -->
+                {{ partial "article_item" . }}
+            {{ end }}
+        </div>
+    </section>
+    {{ partial "pagination" . }}
+    {{ end }}
+{{ end }}

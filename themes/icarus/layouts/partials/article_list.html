@@ -1,0 +1,8 @@
+{{ $paginator := .Paginate ( where .Site.RegularPages.ByPublishDate.Reverse "Type" "!=" "page") }}
+{{ range $paginator.Pages }}
+    {{ if not (.Params.not_show_index) }}  
+        {{ partial "article_item" . }}
+    {{ end }}
+{{ end }}
+
+{{ partial "pagination" . }}

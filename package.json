@@ -1,0 +1,15 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "silkage blog",
+  "main": "index.js",
+  "scripts": {
+    "algolia": "atomic-algolia"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atomic-algolia": "^0.3.17",
+    "social-share.js": "^1.0.16"
+  }
+}

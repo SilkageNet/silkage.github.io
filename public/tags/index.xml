@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 锦年安好</title>
+    <link>https://www.silkage.net/tags/</link>
+    <description>Recent content in Tags on 锦年安好</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Oct 2019 15:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.silkage.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>ssh</title>
+      <link>https://www.silkage.net/tags/ssh/</link>
+      <pubDate>Fri, 11 Oct 2019 15:30:00 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/tags/ssh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://www.silkage.net/tags/markdown/</link>
+      <pubDate>Fri, 11 Oct 2019 12:10:51 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://www.silkage.net/tags/hugo/</link>
+      <pubDate>Thu, 10 Oct 2019 16:00:00 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
