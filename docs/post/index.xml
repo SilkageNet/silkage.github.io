@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 锦年安好</title>
+    <link>https://www.silkage.net/post/</link>
+    <description>Recent content in Posts on 锦年安好</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 11 Oct 2019 15:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.silkage.net/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SSH如何免密登录</title>
+      <link>https://www.silkage.net/2019/10/11/ssh-privacy-free-login/</link>
+      <pubDate>Fri, 11 Oct 2019 15:30:00 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/2019/10/11/ssh-privacy-free-login/</guid>
+      <description>&lt;p&gt;以前使用ssh登录服务器，每次都需要输入密码，比较反锁，特别是随机生成的密码还需要复制粘贴。所以了解了下ssh的免密登录的方法，用起来很方便，对管理很多服务也比较简便。&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Markdown Cheat Sheet</title>
+      <link>https://www.silkage.net/2019/10/11/markdown-cheat-sheet/</link>
+      <pubDate>Fri, 11 Oct 2019 12:10:51 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/2019/10/11/markdown-cheat-sheet/</guid>
+      <description>&lt;p&gt;This note demonstrates some of what &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown&lt;/a&gt; is capable of doing.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: Feel free to play with this page. Unlike regular notes, this doesn&amp;rsquo;t automatically save itself.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://www.silkage.net/2019/10/10/hello-world/</link>
+      <pubDate>Thu, 10 Oct 2019 16:00:00 +0800</pubDate>
+      
+      <guid>https://www.silkage.net/2019/10/10/hello-world/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.silkage.net/1/01/01/view-jd-item/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.silkage.net/1/01/01/view-jd-item/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
